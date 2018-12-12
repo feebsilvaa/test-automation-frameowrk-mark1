@@ -1,6 +1,7 @@
 # Automation Framework
 
-Framework de Automação de Testes Funcionais para aplicações Web
+Framework de Automação de Testes Funcionais para aplicações Web.
+Gera evidências em arquivos word
 
 ## Releases
 
